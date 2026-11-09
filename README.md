@@ -219,4 +219,4 @@ ISOpen is offered as a full free version with all features and updates included.
 **Download ISOpen today and take control of your optical disc management with the best tools at your fingertips!**
 
 ---
-**Last updated:** 2026-11-09 00:19:11 UTC
+**Last updated:** 2026-11-09 07:26:27 UTC
